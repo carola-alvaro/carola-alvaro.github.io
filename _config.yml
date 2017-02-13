@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://carola-alvaro.github.io/photorama/gallery/"  
-  - JOURNAL: "https://carola-alvaro.github.io/photorama/journal/"
-  - ABOUT: "https://carola-alvaro.github.io/photorama/about/"
+  - GALLERY: "https://carola-alvaro.github.io/gallery/"  
+  - JOURNAL: "https://carola-alvaro.github.io/journal/"
+  - ABOUT: "https://carola-alvaro.github.io/about/"
 
 # All translation keys
 translations:

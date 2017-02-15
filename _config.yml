@@ -30,9 +30,11 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://carola-alvaro.github.io/gallery/"  
-  - JOURNAL: "https://carola-alvaro.github.io/journal/"
-  - ABOUT: "https://carola-alvaro.github.io/about/"
+  
+  - GALERIA: "https://carola-alvaro.github.io/gallery/"  
+  - PROGRAMA: "https://carola-alvaro.github.io/journal/"
+  - REGALOS: "https://carola-alvaro.github.io/journal/"
+  - NOSOTROS: "https://carola-alvaro.github.io/about/"
 
 # All translation keys
 translations:

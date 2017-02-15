@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: NUESTRA BODA - CAROLA & ALVARO
 email: ""
-description: "Photo Journal"
+description: "25 de Marzo - 2017"
 url: "https://carola-alvaro.github.io"
 baseurl: "/carola-alvaro.github.io"
 facebook_username: ""
@@ -17,7 +17,7 @@ share: true
 owner:
   name:   photorama
   avatar: avatar.png
-  favicon: favicon.ico
+  favicon: logo.ico
   info: photography website template
 
 # Settings for comments helper
